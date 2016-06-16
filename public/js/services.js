@@ -1,15 +1,15 @@
 (function () {
 
-  angular.module('ingedex.services', [])
+  angular.module('convedex.services', [])
 
-    .factory('ingenieroService', ['$http', '$q', '$filter', '$window', function ($http, $q, $filter, $window) {
+    .factory('convenioService', ['$http', '$q', '$filter', '$window', function ($http, $q, $filter, $window) {
       var normalize = $filter('normalize');
       var localStorage = $window.localStorage;
 
       function all() {
         var deferred = $q.defer();
 
-        $http.get('/ingenieros.json')
+        $http.get('/convenios.json')
           .success(function (data) {
             deferred.resolve(data);
           });
@@ -22,8 +22,8 @@
         var deferred = $q.defer();
 
         all().then(function (data) {
-          var results = data.filter(function (ingeniero) {
-            return normalize(ingeniero.name) === name;
+          var results = data.filter(function (convenio) {
+            return normalize(convenio.name) === name;
           });
 
           if (results.length > 0) {
@@ -42,8 +42,8 @@
         var deferred = $q.defer();
 
         all().then(function (data) {
-          var results = data.filter(function (ingeniero) {
-            return ingeniero.type.some(function (t) {
+          var results = data.filter(function (convenio) {
+            return convenio.type.some(function (t) {
               return normalize(t) === type;
             });
           });
@@ -54,15 +54,15 @@
         return deferred.promise;
       }
 
-      function saveSolicitud(ingeniero, solicitud) {
-        var solicitudes = getSolicitudes(ingeniero);
+      function saveSolicitud(convenio, solicitud) {
+        var solicitudes = getSolicitudes(convenio);
 
         solicitudes.push(solicitud);
-        localStorage.setItem(ingeniero, JSON.stringify(solicitudes));
+        localStorage.setItem(convenio, JSON.stringify(solicitudes));
       }
 
-      function getSolicitudes(ingeniero) {
-        var solicitudes = localStorage.getItem(ingeniero);
+      function getSolicitudes(convenio) {
+        var solicitudes = localStorage.getItem(convenio);
 
         if (!solicitudes) {
           solicitudes = [];

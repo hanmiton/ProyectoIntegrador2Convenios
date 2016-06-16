@@ -1,60 +1,60 @@
 (function () {
 
-  angular.module('ingedex.directives', [])
+  angular.module('convedex.directives', [])
 
-    .directive('ingenieroName', function () {
+    .directive('convenioName', function () {
         return {
           restrict: 'E',
-          templateUrl: 'partials/ingeniero-name.html'
+          templateUrl: 'partials/convenio-name.html'
         };
       })
 
-    .directive('ingenieroImage', function () {
+    .directive('convenioImage', function () {
         return {
           restrict: 'E',
-          templateUrl: 'partials/ingeniero-image.html'
+          templateUrl: 'partials/convenio-image.html'
         };
       })
 
-    .directive('ingenieroData', function () {
+    .directive('convenioData', function () {
         return {
           restrict: 'E',
-          templateUrl: 'partials/ingeniero-data.html'
+          templateUrl: 'partials/convenio-data.html'
         };
       })
 
-     .directive('ingenieroStats', function () {
+     .directive('convenioStats', function () {
         return {
           restrict: 'E',
-          templateUrl: 'partials/ingeniero-stats.html'
+          templateUrl: 'partials/convenio-stats.html'
         };
       })
 
-     .directive('ingenieroEvolution', function () {
+     .directive('convenioEvolution', function () {
         return {
           retrict: 'E',
-          templateUrl: 'partials/ingeniero-evolution.html'
+          templateUrl: 'partials/convenio-evolution.html'
         };
       })
 
-    .directive('ingenieroType', function () {
+    .directive('convenioType', function () {
       return {
         restrict: 'E',
-        templateUrl: 'partials/ingeniero-type.html'
+        templateUrl: 'partials/convenio-type.html'
       };
     })
 
-    .directive('ingenieroCard', function () {
+    .directive('convenioCard', function () {
       return {
         retrict: 'E',
-        templateUrl: 'partials/ingeniero-card.html'
+        templateUrl: 'partials/convenio-card.html'
       }
     })
 
-     .directive('ingenieroSolicitudes', ['ingenieroService', function (ingenieroService) {
+     .directive('convenioSolicitudes', ['convenioService', function (convenioService) {
       return {
         restrict: 'E',
-        templateUrl: 'partials/ingeniero-solicitudes.html',
+        templateUrl: 'partials/convenio-solicitudes.html',
         scope: {
           name: '@name'
         },
@@ -62,12 +62,12 @@
           attributes.$observe('name', function (value) {
             if (value) {
               scope.name = value;
-              scope.solicitudes = ingenieroService.getSolicitudes(value);
+              scope.solicitudes = convenioService.getSolicitudes(value);
             }
           });
         },
         controller: function ($scope) {
-          $scope.solicitudes = ingenieroService.getSolicitudes($scope.name);
+          $scope.solicitudes = convenioService.getSolicitudes($scope.name);
           $scope.solicitud = {};
           $scope.show = false;
 
@@ -83,8 +83,8 @@
 
           $scope.addSolicitud = function () {
             $scope.solicitud.date = Date.now();
-            ingenieroService.saveSolicitud($scope.name, $scope.solicitud);
-            $scope.solicitudes = ingenieroService.getSolicitudes($scope.name);
+            convenioService.saveSolicitud($scope.name, $scope.solicitud);
+            $scope.solicitudes = convenioService.getSolicitudes($scope.name);
             $scope.solicitud = {};
           };
 

@@ -1,6 +1,6 @@
 (function () {
 
-  angular.module('ingedex.filters', [])
+  angular.module('convedex.filters', [])
     .filter('normalize', function () {
       return function (input) {
           if (!input) return "";
@@ -15,7 +15,7 @@
 
     .filter('imageify', ['$filter', function ($filter) {
     return function (input) {
-      var url = "img/ingenieros/" + $filter('normalize')(input) + ".jpg";
+      var url = "img/convenios/" + $filter('normalize')(input) + ".jpg";
       return url;
     };
   }]);

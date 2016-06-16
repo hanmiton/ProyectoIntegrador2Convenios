@@ -1,37 +1,37 @@
 (function (_) {
 
-  angular.module('ingedex.controllers', [])
-    .controller('IngedexController', ['$rootScope', '$scope', '$routeParams', 'ingenieroService', function ($rootScope, $scope, $routeParams, ingenieroService) {
+  angular.module('convedex.controllers', [])
+    .controller('ConvedexController', ['$rootScope', '$scope', '$routeParams', 'convenioService', function ($rootScope, $scope, $routeParams, convenioService) {
       var type = $routeParams.type;
-       var ingenieros = [];
+       var convenios = [];
 
       $rootScope.title = "";
 
       if (type) {
         $scope.type = type;
 
-        ingenieroService.byType(type).then(function (data) {
-          $scope.ingenieros = ingenieros =data;
+        convenioService.byType(type).then(function (data) {
+          $scope.convenios = convenios =data;
           $scope.groupped = partition(data, 4);
         });
       } else {
-        ingenieroService.all().then(function (data) {
-          $scope.ingenieros = ingenieros =data;
+        convenioService.all().then(function (data) {
+          $scope.convenios = convenios =data;
           $scope.groupped = partition(data, 4);
         });
       }
 
       $scope.search = function () {
-        var result = ingenieros;
+        var result = convenios;
         if ($scope.searchTerm) {
-          result = ingenieros.filter(function (ingeniero) {
-            var name = ingeniero && ingeniero.name || "";
+          result = convenios.filter(function (convenio) {
+            var name = convenio && convenio.name || "";
 
             return name.toLowerCase().indexOf($scope.searchTerm.toLowerCase()) !== -1;
           });
         }
 
-        $scope.ingenieros = result;
+        $scope.convenios = result;
         $scope.groupped = partition(result, 4);
       };
 
@@ -43,14 +43,14 @@
 
     }])
 
-    .controller('IngenieroController', ['$rootScope', '$scope', '$routeParams', 'ingenieroService', function ($rootScope, $scope, $routeParams, ingenieroService) {
+    .controller('ConvenioController', ['$rootScope', '$scope', '$routeParams', 'convenioService', function ($rootScope, $scope, $routeParams, convenioService) {
       var name = $routeParams.name;
-      //$scope.ingeniero = {};
+      //$scope.convenio = {};
 
-      ingenieroService.byName(name)
+      convenioService.byName(name)
       .then(function (data) {
          $rootScope.title = data.name;
-        $scope.ingeniero = data;
+        $scope.convenio = data;
       });
     }])
 
