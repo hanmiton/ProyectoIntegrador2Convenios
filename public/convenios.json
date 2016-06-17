@@ -1,5 +1,6 @@
 [
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "acu.edu",
@@ -7,6 +8,7 @@
       "web_page": "http://www.acu.edu/"
   },
   {
+      "img": "0002",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "adelphi.edu",
@@ -14,6 +16,7 @@
       "web_page": "http://www.adelphi.edu/"
   },
   {
+      "img": "0003",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "agnesscott.edu",
@@ -21,6 +24,7 @@
       "web_page": "http://www.agnesscott.edu/"
   },
   {
+      "img": "0004",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "atc.edu",
@@ -28,6 +32,7 @@
       "web_page": "http://www.atc.edu/"
   },
   {
+      "img": "0005",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "afit.af.mil",
@@ -35,6 +40,7 @@
       "web_page": "http://www.afit.af.mil/"
   },
   {
+      "img": "0006",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "afit.edu",
@@ -42,6 +48,7 @@
       "web_page": "http://www.afit.edu/"
   },
   {
+      "img": "0007",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "aamu.edu",
@@ -49,6 +56,7 @@
       "web_page": "http://www.aamu.edu/"
   },
   {
+      "img": "0008",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "alasu.edu",
@@ -56,6 +64,7 @@
       "web_page": "http://www.alasu.edu/"
   },
   {
+      "img": "0009",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "aloma.edu",
@@ -63,6 +72,7 @@
       "web_page": "http://www.alamo.edu/"
   },
   {
+      "img": "0010",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "acofi.edu",
@@ -70,6 +80,7 @@
       "web_page": "http://www.acofi.edu/"
   },
   {
+      "img": "0011",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "albion.edu",
@@ -77,6 +88,7 @@
       "web_page": "http://www.albion.edu/"
   },
   {
+      "img": "0012",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "alfred.edu",
@@ -84,6 +96,7 @@
       "web_page": "http://www.alfred.edu/"
   },
   {
+      "img": "0013",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "alleg.edu",
@@ -91,6 +104,7 @@
       "web_page": "http://www.alleg.edu/"
   },
   {
+      "img": "0014",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "allencol.edu",
@@ -98,6 +112,7 @@
       "web_page": "http://www.allencol.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "alma.edu",
@@ -105,6 +120,7 @@
       "web_page": "http://www.alma.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "alverno.edu",
@@ -112,6 +128,7 @@
       "web_page": "http://www.alverno.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "ambassador.edu",
@@ -119,6 +136,7 @@
       "web_page": "http://www.ambassador.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "amercoastuniv.edu",
@@ -126,6 +144,7 @@
       "web_page": "http://www.amercoastuniv.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "aic.edu",
@@ -133,6 +152,7 @@
       "web_page": "http://www.aic.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "american.edu",
@@ -140,6 +160,7 @@
       "web_page": "http://www.american.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "amherst.edu",
@@ -147,6 +168,7 @@
       "web_page": "http://www.amherst.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "andrews.edu",
@@ -154,6 +176,7 @@
       "web_page": "http://www.andrews.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "angelo.edu",
@@ -161,6 +184,7 @@
       "web_page": "http://www.angelo.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "aacc.edu",
@@ -168,6 +192,7 @@
       "web_page": "http://www.aacc.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "antiochne.edu",
@@ -175,6 +200,7 @@
       "web_page": "http://www.antiochne.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "antioch.edu",
@@ -182,6 +208,7 @@
       "web_page": "http://www.antioch.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "antiochla.edu",
@@ -189,6 +216,7 @@
       "web_page": "http://www.antiochla.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "seattleantioch.edu",
@@ -196,6 +224,7 @@
       "web_page": "http://www.seattleantioch.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "appstate.edu",
@@ -203,6 +232,7 @@
       "web_page": "http://www.appstate.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "aquinas.edu",
@@ -210,6 +240,7 @@
       "web_page": "http://www.aquinas.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "arcadia.edu",
@@ -217,6 +248,7 @@
       "web_page": "http://www.arcadia.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "asu.edu",
@@ -224,6 +256,7 @@
       "web_page": "http://www.asu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "azwestern.edu",
@@ -231,6 +264,7 @@
       "web_page": "http://www.azwestern.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "astate.edu",
@@ -238,6 +272,7 @@
       "web_page": "http://www.astate.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "atu.edu",
@@ -245,6 +280,7 @@
       "web_page": "http://www.atu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "armstrong.edu",
@@ -252,6 +288,7 @@
       "web_page": "http://www.armstrong.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "ashland.edu",
@@ -259,6 +296,7 @@
       "web_page": "http://www.ashland.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "assumption.edu",
@@ -266,6 +304,7 @@
       "web_page": "http://www.assumption.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "auburn.edu",
@@ -273,6 +312,7 @@
       "web_page": "http://www.auburn.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "aum.edu",
@@ -280,6 +320,7 @@
       "web_page": "http://www.aum.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "augsburg.edu",
@@ -287,6 +328,7 @@
       "web_page": "http://www.augsburg.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "augustana.edu",
@@ -294,6 +336,7 @@
       "web_page": "http://www.augustana.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "augie.edu",
@@ -301,6 +344,7 @@
       "web_page": "http://www.augie.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "augusta.edu",
@@ -308,6 +352,7 @@
       "web_page": "http://www.augusta.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "gru.edu",
@@ -315,6 +360,7 @@
       "web_page": "http://www.gru.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "aurora.edu",
@@ -322,6 +368,7 @@
       "web_page": "http://www.aurora.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "austincollege.edu",
@@ -329,6 +376,7 @@
       "web_page": "http://www.austincollege.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "austincc.edu",
@@ -336,6 +384,7 @@
       "web_page": "http://www.austincc.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "apsu.edu",
@@ -343,6 +392,7 @@
       "web_page": "http://www.apsu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "averett.edu",
@@ -350,6 +400,7 @@
       "web_page": "http://www.averett.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "avila.edu",
@@ -357,6 +408,7 @@
       "web_page": "http://www.avila.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "apu.edu",
@@ -364,6 +416,7 @@
       "web_page": "http://www.apu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "babson.edu",
@@ -371,6 +424,7 @@
       "web_page": "http://www.babson.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bakeru.edu",
@@ -378,6 +432,7 @@
       "web_page": "http://www.bakeru.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "baldwinw.edu",
@@ -385,6 +440,7 @@
       "web_page": "http://www.baldwinw.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bsu.edu",
@@ -392,6 +448,7 @@
       "web_page": "http://www.bsu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bbc.edu",
@@ -399,6 +456,7 @@
       "web_page": "http://www.bbc.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bard.edu",
@@ -406,6 +464,7 @@
       "web_page": "http://www.bard.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "barry.edu",
@@ -413,6 +472,7 @@
       "web_page": "http://www.barry.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bastyr.edu",
@@ -420,6 +480,7 @@
       "web_page": "http://www.bastyr.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bates.edu",
@@ -427,6 +488,7 @@
       "web_page": "http://www.bates.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bcm.edu",
@@ -434,6 +496,7 @@
       "web_page": "http://www.bcm.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "baylor.edu",
@@ -441,6 +504,7 @@
       "web_page": "http://www.baylor.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bellevue.edu",
@@ -448,6 +512,7 @@
       "web_page": "http://www.bellevue.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "belmont.edu",
@@ -455,6 +520,7 @@
       "web_page": "http://www.belmont.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "beloit.edu",
@@ -462,6 +528,7 @@
       "web_page": "http://www.beloit.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bemidjistate.edu",
@@ -469,6 +536,7 @@
       "web_page": "http://www.bemidjistate.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "benedictine.edu",
@@ -476,6 +544,7 @@
       "web_page": "http://www.benedictine.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bennington.edu",
@@ -483,6 +552,7 @@
       "web_page": "http://www.bennington.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bentley.edu",
@@ -490,6 +560,7 @@
       "web_page": "http://www.bentley.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "berea.edu",
@@ -497,6 +568,7 @@
       "web_page": "http://www.berea.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "berklee.edu",
@@ -504,6 +576,7 @@
       "web_page": "http://www.berklee.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bethanywv.edu",
@@ -511,6 +584,7 @@
       "web_page": "http://www.bethanywv.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bethelks.edu",
@@ -518,6 +592,7 @@
       "web_page": "http://www.bethelks.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bethel.edu",
@@ -525,6 +600,7 @@
       "web_page": "http://www.bethel.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "biola.edu",
@@ -532,6 +608,7 @@
       "web_page": "http://www.biola.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bsc.edu",
@@ -539,6 +616,7 @@
       "web_page": "http://www.bsc.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bhsu.edu",
@@ -546,6 +624,7 @@
       "web_page": "http://www.bhsu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bloomu.edu",
@@ -553,6 +632,7 @@
       "web_page": "http://www.bloomu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bluffton.edu",
@@ -560,6 +640,7 @@
       "web_page": "http://www.bluffton.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bju.edu",
@@ -567,6 +648,7 @@
       "web_page": "http://www.bju.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "idbsu.edu",
@@ -574,6 +656,7 @@
       "web_page": "http://www.idbsu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bc.edu",
@@ -581,6 +664,7 @@
       "web_page": "http://www.bc.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bgsp.edu",
@@ -588,6 +672,7 @@
       "web_page": "http://www.bgsp.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bu.edu",
@@ -595,6 +680,7 @@
       "web_page": "http://www.bu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bowdoin.edu",
@@ -602,6 +688,7 @@
       "web_page": "http://www.bowdoin.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bowiestate.edu",
@@ -609,6 +696,7 @@
       "web_page": "http://www.bowiestate.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bgsu.edu",
@@ -616,6 +704,7 @@
       "web_page": "http://www.bgsu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bradley.edu",
@@ -623,6 +712,7 @@
       "web_page": "http://www.bradley.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "brandeis.edu",
@@ -630,6 +720,7 @@
       "web_page": "http://www.brandeis.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "brenau.edu",
@@ -637,6 +728,7 @@
       "web_page": "http://www.brenau.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "briar-cliff.edu",
@@ -644,6 +736,7 @@
       "web_page": "http://www.briar-cliff.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bridgewater.edu",
@@ -651,6 +744,7 @@
       "web_page": "http://www.bridgewater.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "byu.edu",
@@ -658,6 +752,7 @@
       "web_page": "http://www.byu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "byuh.edu",
@@ -665,6 +760,7 @@
       "web_page": "http://www.byuh.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "broward.edu",
@@ -672,6 +768,7 @@
       "web_page": "http://www.broward.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "brown.edu",
@@ -679,6 +776,7 @@
       "web_page": "http://www.brown.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bryant.edu",
@@ -686,6 +784,7 @@
       "web_page": "http://www.bryant.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "brynmawr.edu",
@@ -693,6 +792,7 @@
       "web_page": "http://www.brynmawr.edu/college"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bucknell.edu",
@@ -700,6 +800,7 @@
       "web_page": "http://www.bucknell.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "bvu.edu",
@@ -707,6 +808,7 @@
       "web_page": "http://www.bvu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "butler.edu",
@@ -714,6 +816,7 @@
       "web_page": "http://www.butler.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "calcoast.edu",
@@ -721,6 +824,7 @@
       "web_page": "http://www.calcoast.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "caltech.edu",
@@ -728,6 +832,7 @@
       "web_page": "http://www.caltech.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "callutheran.edu",
@@ -735,6 +840,7 @@
       "web_page": "http://www.callutheran.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csum.edu",
@@ -742,6 +848,7 @@
       "web_page": "http://www.csum.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cnuas.edu",
@@ -749,6 +856,7 @@
       "web_page": "http://www.cnuas.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "calpoly.edu",
@@ -756,6 +864,7 @@
       "web_page": "http://www.calpoly.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csupomona.edu",
@@ -763,6 +872,7 @@
       "web_page": "http://www.csupomona.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csubak.edu",
@@ -770,6 +880,7 @@
       "web_page": "http://www.csubak.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csuchico.edu",
@@ -777,6 +888,7 @@
       "web_page": "http://www.csuchico.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csudh.edu",
@@ -784,6 +896,7 @@
       "web_page": "http://www.csudh.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csufresno.edu",
@@ -791,6 +904,7 @@
       "web_page": "http://www.csufresno.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "fullerton.edu",
@@ -798,6 +912,7 @@
       "web_page": "http://www.fullerton.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csuhayward.edu",
@@ -805,6 +920,7 @@
       "web_page": "http://www.csuhayward.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csulb.edu",
@@ -812,6 +928,7 @@
       "web_page": "http://www.csulb.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "calstatela.edu",
@@ -819,6 +936,7 @@
       "web_page": "http://www.calstatela.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "monterey.edu",
@@ -826,6 +944,7 @@
       "web_page": "http://www.monterey.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csun.edu",
@@ -833,6 +952,7 @@
       "web_page": "http://www.csun.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csus.edu",
@@ -840,6 +960,7 @@
       "web_page": "http://www.csus.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csus.edu",
@@ -847,6 +968,7 @@
       "web_page": "http://www.csus.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csusb.edu",
@@ -854,6 +976,7 @@
       "web_page": "http://www.csusb.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "sjsu.edu",
@@ -861,6 +984,7 @@
       "web_page": "http://www.sjsu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csusm.edu",
@@ -868,6 +992,7 @@
       "web_page": "http://www.csusm.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csustan.edu",
@@ -875,6 +1000,7 @@
       "web_page": "http://www.csustan.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "calstate.edu",
@@ -882,6 +1008,7 @@
       "web_page": "http://www.calstate.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cup.edu",
@@ -889,6 +1016,7 @@
       "web_page": "http://www.cup.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "calvin.edu",
@@ -896,6 +1024,7 @@
       "web_page": "http://www.calvin.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cameron.edu",
@@ -903,6 +1032,7 @@
       "web_page": "http://www.cameron.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "campbellsville.edu",
@@ -910,6 +1040,7 @@
       "web_page": "http://www.campbellsville.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "campbell.edu",
@@ -917,6 +1048,7 @@
       "web_page": "http://www.campbell.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "canisius.edu",
@@ -924,6 +1056,7 @@
       "web_page": "http://www.canisius.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "capella.edu",
@@ -931,6 +1064,7 @@
       "web_page": "http://www.capella.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "capellauniversity.edu",
@@ -938,6 +1072,7 @@
       "web_page": "http://www.capellauniversity.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "captechu.edu",
@@ -945,6 +1080,7 @@
       "web_page": "http://www.captechu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "carleton.edu",
@@ -952,6 +1088,7 @@
       "web_page": "http://www.carleton.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "carlow.edu",
@@ -959,6 +1096,7 @@
       "web_page": "http://www.carlow.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cmu.edu",
@@ -966,6 +1104,7 @@
       "web_page": "http://www.cmu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "carroll.edu",
@@ -973,6 +1112,7 @@
       "web_page": "http://www.carroll.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "carrollu.edu",
@@ -980,6 +1120,7 @@
       "web_page": "http://www.carrollu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cn.edu",
@@ -987,6 +1128,7 @@
       "web_page": "http://www.cn.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "carthage.edu",
@@ -994,6 +1136,7 @@
       "web_page": "http://www.carthage.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "case.edu",
@@ -1001,6 +1144,7 @@
       "web_page": "http://www.case.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "castleton.edu",
@@ -1008,6 +1152,7 @@
       "web_page": "http://www.castleton.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cua.edu",
@@ -1015,6 +1160,7 @@
       "web_page": "http://www.cua.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cedarville.edu",
@@ -1022,6 +1168,7 @@
       "web_page": "http://www.cedarville.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "centenary.edu",
@@ -1029,6 +1176,7 @@
       "web_page": "http://www.centenary.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "central.edu",
@@ -1036,6 +1184,7 @@
       "web_page": "http://www.central.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "ccsu.edu",
@@ -1043,6 +1192,7 @@
       "web_page": "http://www.ccsu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cmc.edu",
@@ -1050,6 +1200,7 @@
       "web_page": "http://www.cmc.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cmich.edu",
@@ -1057,6 +1208,7 @@
       "web_page": "http://www.cmich.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cwu.edu",
@@ -1064,6 +1216,7 @@
       "web_page": "http://www.cwu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "centre.edu",
@@ -1071,6 +1224,7 @@
       "web_page": "http://www.centre.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csc.edu",
@@ -1078,6 +1232,7 @@
       "web_page": "http://www.csc.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "champlain.edu",
@@ -1085,6 +1240,7 @@
       "web_page": "http://www.champlain.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "chapman.edu",
@@ -1092,6 +1248,7 @@
       "web_page": "http://www.chapman.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "chatham.edu",
@@ -1099,6 +1256,7 @@
       "web_page": "http://www.chatham.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "chesapeake.edu",
@@ -1106,6 +1264,7 @@
       "web_page": "http://www.chesapeake.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cheyney.edu",
@@ -1113,6 +1272,7 @@
       "web_page": "http://www.cheyney.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csopp.edu",
@@ -1120,6 +1280,7 @@
       "web_page": "http://www.csopp.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cbu.edu",
@@ -1127,6 +1288,7 @@
       "web_page": "http://www.cbu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cts.edu",
@@ -1134,6 +1296,7 @@
       "web_page": "http://www.cts.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cnu.edu",
@@ -1141,6 +1304,7 @@
       "web_page": "http://www.cnu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cityu.edu",
@@ -1148,6 +1312,7 @@
       "web_page": "http://www.cityu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cityuniversity.edu",
@@ -1155,6 +1320,7 @@
       "web_page": "http://www.cityu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cuny.edu",
@@ -1162,6 +1328,7 @@
       "web_page": "http://www.cuny.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cgs.edu",
@@ -1169,6 +1336,7 @@
       "web_page": "http://www.cgs.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "mckenna.edu",
@@ -1176,6 +1344,7 @@
       "web_page": "http://www.mckenna.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "clarion.edu",
@@ -1183,6 +1352,7 @@
       "web_page": "http://www.clarion.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "clarke.edu",
@@ -1190,6 +1360,7 @@
       "web_page": "http://www.clarke.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "clarkson.edu",
@@ -1197,6 +1368,7 @@
       "web_page": "http://www.clarkson.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "clarku.edu",
@@ -1204,6 +1376,7 @@
       "web_page": "http://www.clarku.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "clayton.edu",
@@ -1211,6 +1384,7 @@
       "web_page": "http://www.clayton.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "clemson.edu",
@@ -1218,6 +1392,7 @@
       "web_page": "http://www.clemson.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csuohio.edu",
@@ -1225,6 +1400,7 @@
       "web_page": "http://www.csuohio.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "clinch.edu",
@@ -1232,6 +1408,7 @@
       "web_page": "http://www.clinch.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "coastal.edu",
@@ -1239,6 +1416,7 @@
       "web_page": "http://www.coastal.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cccd.edu",
@@ -1246,6 +1424,7 @@
       "web_page": "http://www.cccd.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "coe.edu",
@@ -1253,6 +1432,7 @@
       "web_page": "http://www.coe.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "coker.edu",
@@ -1260,6 +1440,7 @@
       "web_page": "http://www.coker.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "colby.edu",
@@ -1267,6 +1448,7 @@
       "web_page": "http://www.colby.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "colgate.edu",
@@ -1274,6 +1456,7 @@
       "web_page": "http://www.colgate.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cofc.edu",
@@ -1281,6 +1464,7 @@
       "web_page": "http://www.cofc.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "ceu.edu",
@@ -1288,6 +1472,7 @@
       "web_page": "http://www.ceu.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "cnr.edu",
@@ -1295,6 +1480,7 @@
       "web_page": "http://www.cnr.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "csbsju.edu",
@@ -1302,6 +1488,7 @@
       "web_page": "http://www.csbsju.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "AL",
       "type": ["Albania"],
       "domain": "aefs.edu.al",
@@ -1309,6 +1496,7 @@
       "web_page": "http://www.aefs.edu.al/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "AL",
       "type": ["Albania"],
       "domain": "akademiaearteve.edu.al",
@@ -1316,6 +1504,7 @@
       "web_page": "http://www.akademiaearteve.edu.al/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "AL",
       "type": ["Albania"],
       "domain": "beder.edu.al",
@@ -1323,6 +1512,7 @@
       "web_page": "http://www.beder.edu.al/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "AL",
       "type": ["Albania"],
       "domain": "epoka.edu.al",
@@ -1330,6 +1520,7 @@
       "web_page": "http://www.epoka.edu.al/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "AL",
       "type": ["Albania"],
       "domain": "uat.edu.al",
@@ -1337,6 +1528,7 @@
       "web_page": "http://www.uat.edu.al/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "AL",
       "type": ["Albania"],
       "domain": "ubt.edu.al",
@@ -1344,6 +1536,7 @@
       "web_page": "http://www.ubt.edu.al/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "AL",
       "type": ["Albania"],
       "domain": "uniel.edu.al",
@@ -1351,6 +1544,7 @@
       "web_page": "http://www.uniel.edu.al/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "AL",
       "type": ["Albania"],
       "domain": "unipavaresia.edu.al",
@@ -1358,6 +1552,7 @@
       "web_page": "http://www.unipavaresia.edu.al/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "BD",
       "type": ["Bangladesh"],
       "domain": "northsouth.edu",
@@ -1365,6 +1560,7 @@
       "web_page": "http://www.northsouth.edu/"
   },
   {
+      "img": "0001",
       "alpha_two_code": "BD",
       "type": ["Bangladesh"],
       "domain": "nstu.edu.bd",
@@ -1372,6 +1568,7 @@
       "web_page": "http://www.nstu.edu.bd/"
   },
   {
+      "img": "0002",
       "alpha_two_code": "BD",
       "type": ["Bangladesh"],
       "domain": "nub.ac.bd",
@@ -1379,6 +1576,7 @@
       "web_page": "http://www.nub.ac.bd/"
   },
   {
+      "img": "0003",
       "alpha_two_code": "BD",
       "type": ["Bangladesh"],
       "domain": "nu.edu.bd",
@@ -1386,6 +1584,7 @@
       "web_page": "http://www.nu.edu.bd/"
   },
   {
+      "img": "0004",
       "alpha_two_code": "BD",
       "type": ["Bangladesh"],
       "domain": "presidency.edu.bd",
@@ -1393,6 +1592,7 @@
       "web_page": "http://www.presidency.edu.bd/"
   },
   {
+      "img": "0005",
       "alpha_two_code": "BD",
       "type": ["Bangladesh"],
       "domain": "pstu.ac.bd",
@@ -1400,6 +1600,7 @@
       "web_page": "http://www.pstu.ac.bd/"
   },
   {
+      "img": "0006",
       "alpha_two_code": "BD",
       "type": ["Bangladesh"],
       "domain": "pub.ac.bd",
@@ -1407,6 +1608,7 @@
       "web_page": "http://www.pub.ac.bd/"
   },
   {
+      "img": "0007",
       "alpha_two_code": "BD",
       "type": ["Bangladesh"],
       "domain": "puc.ac.bd",
@@ -1414,6 +1616,7 @@
       "web_page": "http://www.puc.ac.bd/"
   },
   {
+      "img": "0008",
       "alpha_two_code": "BD",
       "type": ["Bangladesh"],
       "domain": "pust.ac.bd",
